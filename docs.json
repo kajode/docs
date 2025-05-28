@@ -12,13 +12,15 @@
     "tabs": [
       {
         "tab": "Guides",
+        "pages": [
+          "development"
+        ]
         "groups": [
           {
             "group": "Get Started",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "quickstart"
             ]
           },
           {
