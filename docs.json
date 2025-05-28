@@ -53,6 +53,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Using App",
+        "groups": [
+          {
+            "group": "Documents",
+            "pages": [
+              "using-app/documents"
+            ]
+          }
+        ]
       }
     ],
     "global": {
