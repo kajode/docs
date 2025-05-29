@@ -75,6 +75,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Getting Started",
+        "groups": [
+          {
+            "group": "Documents",
+            "pages": [
+              "getting-started/documents"
+            ]
+          }
+        ]
       }
     ],
     "global": {
