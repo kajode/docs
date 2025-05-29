@@ -64,6 +64,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Using Google Docs",
+        "groups": [
+          {
+            "group": "Documents",
+            "pages": [
+              "using-google-docs/documents"
+            ]
+          }
+        ]
       }
     ],
     "global": {
