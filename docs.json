@@ -86,6 +86,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Using Docs",
+        "groups": [
+          {
+            "group": "Documents",
+            "pages": [
+              "using-docs/documents"
+            ]
+          }
+        ]
       }
     ],
     "global": {
